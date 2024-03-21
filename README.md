@@ -10,7 +10,7 @@ Both Car and Person must demonstrate encapsulation and have a toString() method.
 
 ## Purpose:
 
-When run, three Car Class objects are created with all their details already assigned. 
+  When run, three Car Class objects are created with all their details already assigned. 
 The user is then prompted to input the details for three Person Class objects
 that will be assigned to each one of the cars. Finally, a report is printed
 detailing the values of each car and their assigned driver. Also, in the case
